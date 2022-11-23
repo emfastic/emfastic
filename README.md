@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">A full stack developer at Boston College</h3>
-<img align=“right” alt=“triathlon” width=“400” src=“https://cdn.dribbble.com/users/3244714/screenshots/6581561/triathlon.gif”/>
+<img align=“right” alt=“triathlon” width=“400” src=“https://cdn.dribbble.com/users/3244714/screenshots/6581561/triathlon.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emfastic&label=Profile%20views&color=0e75b6&style=flat" alt="emfastic" /> </p>
 
