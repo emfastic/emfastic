@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jake</h1>
+<h1 align="center">Hi 👋,  I'm Jake</h1>
 <h3 align="center">A full stack developer at Boston College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emfastic&label=Profile%20views&color=0e75b6&style=flat" alt="emfastic" /> </p>
