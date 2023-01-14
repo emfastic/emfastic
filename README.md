@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emfastic&label=Profile%20views&color=0e75b6&style=flat" alt="emfastic" /> </p>
 
-- 🔭 I’m currently working on **Reactive Resume**
+- 🔭 I’m currently working on **building a journal you can talk to.**
 
 - 🌱 I’m currently learning **deep learning with a focus on author-topic models.**
 
