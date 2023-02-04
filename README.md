@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **building a journal you can talk to.**
 
-- 🌱 I’m currently learning **deep learning with a focus on author-topic models.**
+- 🌱 I’m currently learning **how to fine-tune BERT and GPT models on police dispatch data.**
 
 - 💬 Ask me about **React and JavaScript**
 
 - 📫 How to reach me **ottigerj@bc.edu**
 
-- ⚡ Fun fact **I love endurance sports**
+- ⚡ Fun fact **I'm running a marathon in May**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
